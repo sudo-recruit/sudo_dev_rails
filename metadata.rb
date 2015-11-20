@@ -5,4 +5,4 @@ maintainer_email "ben.yeh@sudo.com.tw"
 supports "ubuntu"
 
 
-depends 'sudo_elastic'#, git: 'git://github.com/sudo-recruit/sudo_elastic.git'
+depends 'sudo_elastic','0.0.3'
